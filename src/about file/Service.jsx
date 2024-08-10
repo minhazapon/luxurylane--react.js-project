@@ -37,7 +37,7 @@ const Service = () => {
               <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
                 <SwiperSlide>
                    <div className=' flex justify-center'>
-                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] w-[300px] p-3'>
+                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] h-[250px] w-[300px] p-3'>
                         <p className=' text-[#0096FF] text-4xl font-mono'>Auto Repair</p>
                         <p className=' mt-5 text-[#0096FF] '>Sample text. Click to select the Text<br></br> Element.</p>
                         <img className=' mt-5 h-[100px]' src="https://cdn-icons-png.flaticon.com/128/1850/1850682.png" alt="" />
@@ -45,18 +45,54 @@ const Service = () => {
                    </div>
                 </SwiperSlide>
                 <SwiperSlide>
+                <div className=' flex justify-center'>
+                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] h-[250px] w-[300px] p-3'>
+                        <p className=' text-[#0096FF] text-4xl font-mono'>Auto Repair</p>
+                        <p className=' mt-5 text-[#0096FF] '>Sample text. Click to select the Text<br></br> Element.</p>
+                        <img className=' mt-5 h-[100px]' src="https://cdn-icons-png.flaticon.com/128/1743/1743614.png" alt="" />
+                    </div>
+                   </div>
 
                 </SwiperSlide>
                 <SwiperSlide>
+                <div className=' flex justify-center'>
+                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] h-[250px] w-[300px] p-3'>
+                        <p className=' text-[#0096FF] text-4xl font-mono'> Glass Repair</p>
+                        <p className=' mt-5 text-[#0096FF] '>Sample text. Click to select the Text<br></br> Element.</p>
+                        <img className=' mt-5 h-[100px]' src="https://cdn-icons-png.flaticon.com/128/16211/16211066.png" alt="" />
+                    </div>
+                   </div>
 
                 </SwiperSlide>
                 <SwiperSlide>
+                <div className=' flex justify-center'>
+                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] h-[250px] w-[300px] p-3'>
+                        <p className=' text-[#0096FF] text-4xl font-mono'>Oil Change
+                        </p>
+                        <p className=' mt-5 text-[#0096FF] '>Sample text. Click to select the Text<br></br> Element.</p>
+                        <img className=' mt-5 h-[100px]' src="https://cdn-icons-png.flaticon.com/128/2052/2052448.png" alt="" />
+                    </div>
+                   </div>
 
                 </SwiperSlide>
                 <SwiperSlide>
+                <div className=' flex justify-center'>
+                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] h-[250px] w-[300px] p-3'>
+                        <p className=' text-[#0096FF] text-4xl font-mono'>GeneralRepair</p>
+                        <p className='  mt-5 text-[#0096FF] '>Sample text. Click to select the Text<br></br> Element.</p>
+                        <img className=' mt-5 h-[100px]' src="https://cdn-icons-png.flaticon.com/128/814/814400.png" alt="" />
+                    </div>
+                   </div>
 
                 </SwiperSlide>
                 <SwiperSlide>
+                <div className=' flex justify-center'>
+                    <div className=' bg-[#030637] border-[1px] border-[#0096FF] h-[250px] w-[300px] p-3'>
+                        <p className=' text-[#0096FF] text-4xl font-mono'>Body Work</p>
+                        <p className=' mt-5 text-[#0096FF] '>Sample text. Click to select the Text<br></br> Element.</p>
+                        <img className=' mt-5 h-[100px]' src="https://cdn-icons-png.flaticon.com/128/6331/6331793.png" alt="" />
+                    </div>
+                   </div>
 
                 </SwiperSlide>
               
