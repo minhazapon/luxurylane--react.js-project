@@ -1,0 +1,68 @@
+
+[
+ {
+   "image":"https://img.freepik.com/free-photo/view-car-running-high-speed_23-2150635443.jpg?t=st=1723383651~exp=1723387251~hmac=f231f49b859c228f9b640fff226a8c23ce516d854e5c0f56c638db2ab94c6fb5&w=826",
+   "name": "Velociraptor",
+   "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/black-bmw-with-license-plate-that-saysbmwon-its-side_1313177-276.jpg?w=826",
+   "name": "Nimbus",
+  "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/free-photo/white-coupe-sport-car-standing-road-front-view_114579-4005.jpg?t=st=1723383680~exp=1723387280~hmac=9a2b72278afb8703393e050bbf4d0fe784a6742ed4592008a68b1876a5f72bef&w=740",
+   "name": "Stratos",
+   "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/car-with-word-honda-front_1313177-202.jpg?w=826",
+   "name": "Aurora",
+   "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/silver-sports-car-is-reflected-water_1313177-100.jpg?w=826",
+   "name": "Zenith",
+   "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/free-photo/3d-car-city-street_23-2150796864.jpg?t=st=1723383716~exp=1723387316~hmac=bb8450355cc9ca48a1fb87625ae18eec4beb271a6aff3b01102361e219cbfe65&w=740",
+   "name": "Turbine",
+   "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/black-car-with-number-2-side_1313177-289.jpg?w=826",
+   "name": "Vortex",
+  "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/free-photo/cyberpunk-urban-scenery-with-car_23-2150712268.jpg?t=st=1723383750~exp=1723387350~hmac=1450c8636c41e977476cf30695992c22bf36a7cafe4c35fb8268b15cf3511c32&w=826",
+   "name": "Equinox",
+ "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/black-car-with-license-plate-number-6668_1313177-86.jpg?w=826",
+   "name": "Peregrine",
+   "price":"$100000",
+   "details":"our company always give good and quality cars, plzz join with us and take youre dream car"
+
+ }
+
+
+]

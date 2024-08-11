@@ -7,7 +7,7 @@ const Nav = () => {
     
        <li className=" text-[#0096FF]"><NavLink to="/" >Home</NavLink></li>
        <li className=" text-[#0096FF]"><NavLink to="/about" >about</NavLink></li>
-       <li className=" text-[#0096FF]"><NavLink to="/info" >CarInfo</NavLink></li>
+       <li className=" text-[#0096FF]"><NavLink to="/cars" >CarInfo</NavLink></li>
     
      
   

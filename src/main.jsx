@@ -9,6 +9,7 @@ import {
 import Root from './Root';
 import Home from './Home';
 import About from './about file/About';
+import Carinfo from './Carinfo';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
       {
         path: "/about",
         element: <About></About> ,
+      },
+      {
+        path: "/cars",
+        element:  <Carinfo></Carinfo> ,
       },
     ],
   },
