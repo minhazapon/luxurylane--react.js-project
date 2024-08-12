@@ -1,4 +1,6 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
+import { fireContext } from "./firebaseWork/AuthContext";
+import { useContext } from "react";
 
 
 const Nav = () => {
@@ -13,6 +15,23 @@ const Nav = () => {
   
     
     </>
+
+
+       const {user, logOut} = useContext(fireContext)
+
+
+       const handleOut = e =>{
+
+         logOut()
+         .then( result =>{
+          console.log(result)
+         } )
+         .catch(error =>{
+          console.error(error)
+         })
+
+
+       }
 
 
 
@@ -54,8 +73,25 @@ const Nav = () => {
         {navs}
     </ul>
   </div>
+
+
   <div className="navbar-end">
+
+  { user ? <>
+    
+    <button onClick={handleOut} className=" btn">SignOut</button>
+  </>:
+
+    <Link to="/login" >
     <a className="btn bg-[#030637] border-[1px] border-[#0096FF] text-[#0096FF] ">SignIn</a>
+    </Link>   
+
+  }
+ 
+
+
+
+    
   </div>
 </div>
             

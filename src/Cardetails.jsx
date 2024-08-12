@@ -1,5 +1,6 @@
 
 
+ // text-[#0096FF] bg-[#030637]
 
 const Cardetails = ({car}) => {
 
@@ -9,7 +10,7 @@ const Cardetails = ({car}) => {
     return (
         <div>
 
-                <div className="card card-compact bg-base-100 w-96 shadow-xl">
+                <div className="card card-compact bg-[#030637] border-[1px] border-[#0096FF] text-[#0096FF]  w-96 shadow-xl">
                   <figure>
                     <img className=" h-[250px] w-[400px]"
                       src={image}
